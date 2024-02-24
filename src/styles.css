@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000000;
+}
+.curr
+{
+    color: #FFFFFF;
+}
+.crypto-item
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3vh 0vw 0vh 0vw;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 1px solid #FFFFFF;
+}
+.crypto-image img
+{
+    width: 17%;
+}
+#dollar
+{
+    color: rgb(211, 235, 92);
+}
