@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrashidPal_CryptoC/static/css/main.d58cddd1.css",
+    "main.js": "/PrashidPal_CryptoC/static/js/main.bf80a5ab.js",
+    "index.html": "/PrashidPal_CryptoC/index.html",
+    "main.d58cddd1.css.map": "/PrashidPal_CryptoC/static/css/main.d58cddd1.css.map",
+    "main.bf80a5ab.js.map": "/PrashidPal_CryptoC/static/js/main.bf80a5ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d58cddd1.css",
+    "static/js/main.bf80a5ab.js"
+  ]
+}
